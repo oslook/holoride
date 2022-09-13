@@ -1,0 +1,27 @@
+{
+  "name": "com.holoride.elasticsdk.servicesdk.android",
+  "description": "Provides vehicle localization data to the Elastic SDK.",
+  "version": "1.0.2",
+  "author": {
+    "name": "holoride",
+    "email": "esdk-support@holoride.com",
+    "url": "https://holoride.com"
+  },
+  "dependencies": {},
+  "keywords": [
+    "holoride",
+    "service",
+    "sdk",
+    "vehicle",
+    "localization"
+  ],
+  "scripts": {},
+  "_id": "com.holoride.elasticsdk.servicesdk.android@1.0.2",
+  "dist": {
+    "tarball": "https://holoride.jfrog.io/artifactory/api/npm/creatorspace-upm-production/com.holoride.elasticsdk.servicesdk.android/-/com.holoride.elasticsdk.servicesdk.android-1.0.2.tgz",
+    "shasum": "74075140bc4ab61c6fda6b4c03af0a8b9b38be6f"
+  },
+  "unity": "2020.3",
+  "displayName": "ElasticSDK Service SDK Bindings (Android)",
+  "_time": "2022-09-08T13:28:19.120Z"
+}
