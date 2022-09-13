@@ -1,0 +1,20 @@
+{
+  "name": "com.holoride.elasticsdk.servicesdk.android",
+  "displayName": "ElasticSDK Service SDK Bindings (Android)",
+  "description": "Provides vehicle localization data to the Elastic SDK.",
+  "unity": "2020.3",
+  "keywords": [
+    "holoride",
+    "service",
+    "sdk",
+    "vehicle",
+    "localization"
+  ],
+  "author": {
+    "name": "holoride",
+    "email": "esdk-support@holoride.com",
+    "url": "https://holoride.com"
+  },
+  "dependencies": {},
+  "version": "1.0.1"
+}
