@@ -1,0 +1,32 @@
+{
+  "name": "com.holoride.elasticsdk",
+  "description": "holoride's Elastic SDK enables the user to create procedural location based content.",
+  "version": "0.21.6",
+  "author": {
+    "name": "holoride",
+    "email": "esdk-support@holoride.com",
+    "url": "https://holoride.com"
+  },
+  "dependencies": {
+    "com.github.siccity.xnode": "1.8.0",
+    "com.unity.nuget.newtonsoft-json": "2.0.2",
+    "com.unity.editorcoroutines": "1.0.0",
+    "com.unity.ugui": "1.0.0",
+    "com.holoride.elasticsdk.servicesdk.android": "1.0.2"
+  },
+  "keywords": [
+    "holoride",
+    "elastic",
+    "sdk",
+    "tools"
+  ],
+  "scripts": {},
+  "_id": "com.holoride.elasticsdk@0.21.6",
+  "dist": {
+    "tarball": "https://holoride.jfrog.io/artifactory/api/npm/creatorspace-upm-production/com.holoride.elasticsdk/-/com.holoride.elasticsdk-0.21.6.tgz",
+    "shasum": "e4f9a55c1cbd26fcbca58bc3f30655cb8a6f05b8"
+  },
+  "unity": "2020.3",
+  "displayName": "ElasticSDK",
+  "_time": "2022-09-08T14:15:13.786Z"
+}
