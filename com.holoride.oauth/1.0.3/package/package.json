@@ -1,0 +1,20 @@
+{
+  "name": "com.holoride.oauth",
+  "displayName": "OAuth",
+  "description": "Simple REST API and UnityWebRequest based OAuth flows.",
+  "unity": "2020.3",
+  "keywords": [
+    "oauth",
+    "authorization"
+  ],
+  "author": {
+    "name": "holoride",
+    "email": "esdk-support@holoride.com",
+    "url": "https://holoride.com"
+  },
+  "dependencies": {
+    "com.cysharp.unitask": "2.3.1",
+    "com.unity.nuget.newtonsoft-json": "2.0.2"
+  },
+  "version": "1.0.3"
+}
