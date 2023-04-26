@@ -1,0 +1,32 @@
+{
+  "name": "com.holoride.elasticsdk.content2dtools",
+  "displayName": "ElasticSDK Content 2D Tools Extension",
+  "description": "Support package that enables 2D content tools in the holoride Elastic SDK.",
+  "unity": "2020.3",
+  "keywords": [
+    "holoride",
+    "elastic",
+    "sdk",
+    "tools",
+    "extension",
+    "2d"
+  ],
+  "author": {
+    "name": "holoride",
+    "email": "esdk-support@holoride.com",
+    "url": "https://holoride.com"
+  },
+  "samples": [
+    {
+      "displayName": "2D Content Player Example",
+      "description": "Contains sample Holoride Player Prefab with integrated 2D content setup",
+      "path": "Samples~/Content2D"
+    }
+  ],
+  "dependencies": {
+    "com.cysharp.unitask": "2.3.1",
+    "com.holoride.elasticsdk.servicesdk.android": "3.0.0",
+    "com.holoride.elasticsdk": "0.23.0"
+  },
+  "version": "0.2.1"
+}
